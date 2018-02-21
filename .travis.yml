@@ -6,4 +6,4 @@ install:
   - pip install requests
 # command to run tests
 script:
- - python -m unittest TestGitRepo
+ - python -m unittest testing04
